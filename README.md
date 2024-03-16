@@ -23,4 +23,4 @@
 
 #快速开始
 
-请参考yzmeeting-example-ios的README,进行sdk的集成 https://github.com/yunzhoucomm/yzmeeting-example-ios/blob/main/README.md
+请参考yzmeeting-example-android的README,进行sdk的集成 https://github.com/yunzhoucomm/yzmeeting-example-android/blob/main/README.md
